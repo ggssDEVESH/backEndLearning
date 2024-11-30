@@ -6,4 +6,4 @@
 ## controlers - functions
 ## Routes - routes for the api
 ## middlewares
-## utils - comon functions
+## utils - common functions
